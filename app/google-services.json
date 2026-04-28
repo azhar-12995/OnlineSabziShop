@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924364365148",
+    "project_id": "sabzishop",
+    "storage_bucket": "sabzishop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924364365148:android:188d1d2d5bbd3b3029b599",
+        "android_client_info": {
+          "package_name": "com.azhar.sabzishop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMqVzEkdBTwwtJyzWZJv0ja27Hua0-A3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
